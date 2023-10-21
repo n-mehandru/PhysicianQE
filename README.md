@@ -4,7 +4,7 @@ This repository contains supplementary material (code and data) for the publishe
 
 We include the following:
 1. The survey we adminstered via Qualtrics to the sixty-five physicians in our randomized experiment.
-2. The experiment results from physicians in the backtranslation (BT) and quality estimation (QE) treatment groups (btqe_raw-data). 
+2. The experiment results from physicians in the backtranslation (BT) and quality estimation (QE) treatment groups (btqe_raw_data). 
 3. An annotated set of Emergency Department discharge instructions that bilingual physicians evaluated for adequacy and clinical risk.
 4. Plots of the analyses in our paper were generated using Python 3.10.
 5. Code for how we designed the QE thresholds.
